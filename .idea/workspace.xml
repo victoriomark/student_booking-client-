@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d980749a-8f5a-47ca-bde1-1cfff5afe243" name="Changes" comment="" />
+    <list default="true" id="d980749a-8f5a-47ca-bde1-1cfff5afe243" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/JQUERY/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/auth_logouts/admin_logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/authController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/model/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/AssestantView.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/announcement_page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo-removebg-preview (4).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/33dc727c-20cb-423c-9892-f09cc67d3fe7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/33dc727c-20cb-423c-9892-f09cc67d3fe7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/announcementController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/announcementController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/bookingController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/bookingController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/studentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/studentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/model/announcement.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/model/announcement.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/model/booking.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/model/booking.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/model/student.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/model/student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/anoouncement.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/anoouncement.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +41,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/app/JQUERY/announcement.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/JQUERY/auth.js" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/app/JQUERY/student.js" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/app/controllers/announcementController.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/controllers/authController.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/app/controllers/bookingController.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/app/controllers/studentController.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/views/announcement_page.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/views/login.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/app/views/student.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/includes/admin-sideBar.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/index.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
@@ -40,26 +68,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/xampp/htdocs/TouristDestanationIfoHub",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/TouristDestanationIfoHub&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\Downloads\student_booking\assets\img" />
+      <recent name="L:\Downloads\student_booking\assets" />
       <recent name="L:\Downloads\student_booking\app\views" />
     </key>
   </component>
@@ -82,6 +113,13 @@
       <workItem from="1739690094692" duration="6552000" />
       <workItem from="1739697362569" duration="10000" />
       <workItem from="1739698736255" duration="26258000" />
+      <workItem from="1739773619597" duration="4857000" />
+      <workItem from="1739779133610" duration="724000" />
+      <workItem from="1739780394410" duration="259000" />
+      <workItem from="1739787524518" duration="271000" />
+      <workItem from="1739790019607" duration="746000" />
+      <workItem from="1739802093327" duration="6180000" />
+      <workItem from="1739828182105" duration="4727000" />
     </task>
     <servers />
   </component>
